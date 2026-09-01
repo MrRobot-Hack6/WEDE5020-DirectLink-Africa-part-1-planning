@@ -84,6 +84,8 @@ The website must be mobile and PC compatible, Users must find it easy to navigat
 
 * Coolors, 2026. Color palette: #7CFEF0, #6BFFB8, #2CEAA3, #28965A, #2A6041. [online] Available at: <https://coolors.co/7cfef0-6bffb8-2ceaa3-28965a-2a6041> [Accessed 24 July 2026].
 
+* MDN Web Docs, 2024. HTML cheatsheet. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet [Accessed 1 September 2026].
+
 * NetSuite, 2026. Nonprofit inventory management explained an expert guide. [online] Available at: https://www.netsuite.com/portal/resource/articles/inventory-management/nonprofit-inventory-management.shtml [Accessed 24 July 2026]
 
 
